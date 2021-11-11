@@ -1,5 +1,5 @@
-### Hi there, I'm Bruna! 👋
-* I’m currently studying React 🐣
+<h2 align="center">Hi there, I'm Bruna! 👋👩‍💻 </h2>
+
 
 <a href="https://github.com/romeiro-bru/github-readme-stats">
   <img width="430rem" align="center" src="https://github-readme-stats.vercel.app/api?username=romeiro-bru&show_icons=true&theme=cobalt" />
