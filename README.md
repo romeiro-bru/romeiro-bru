@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://https://github.com/romeiro-bru/romeiro-bru&layout=compact">
-  <img height="170rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeiro-bru&layout=compact&theme=cobalt" />
+  <img height="170rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeiro-bru&layout=compact&theme=cobalt&hide=Ruby" />
 </a>
 
 <!--
