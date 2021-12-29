@@ -14,7 +14,7 @@
 </div>
 <br>
 
-<div>
+<div display="inline">
   <a href="https://github.com/romeiro-bru/github-readme-stats">
     <img width="420rem" align="center" src="https://github-readme-stats.vercel.app/api?username=romeiro-bru&show_icons=true&theme=cobalt" />
   </a>
