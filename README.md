@@ -14,13 +14,15 @@
 </div>
 <br>
 
-<a href="https://github.com/romeiro-bru/github-readme-stats">
-  <img width="430rem" align="center" src="https://github-readme-stats.vercel.app/api?username=romeiro-bru&show_icons=true&theme=cobalt" />
-</a>
+<div>
+  <a href="https://github.com/romeiro-bru/github-readme-stats">
+    <img width="420rem" align="center" src="https://github-readme-stats.vercel.app/api?username=romeiro-bru&show_icons=true&theme=cobalt" />
+  </a>
 
-<a href="https://https://github.com/romeiro-bru/romeiro-bru&layout=compact">
-  <img height="170rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeiro-bru&layout=compact&theme=cobalt&hide=Ruby" />
-</a>
+  <a href="https://https://github.com/romeiro-bru/romeiro-bru&layout=compact">
+    <img height="165rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeiro-bru&layout=compact&theme=cobalt&hide=Ruby" />
+  </a>
+</div>
 
 ##
 <div align="center">
