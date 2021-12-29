@@ -25,10 +25,6 @@
 
 ##
 
-<div align="center">
- <img  src="https://user-images.githubusercontent.com/56081906/147623814-068aa8da-ac45-45e5-b5a8-f464b80eb4e7.gif"  height="180" alt="avatar">
-</div>
-
 <div>
   <img width="45rem"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -37,6 +33,10 @@
   <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
   <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
  </div>
+
+<div align="right">
+ <img  src="https://user-images.githubusercontent.com/56081906/147623814-068aa8da-ac45-45e5-b5a8-f464b80eb4e7.gif"  height="170" alt="avatar">
+</div>
 
 
 
