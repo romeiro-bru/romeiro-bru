@@ -3,7 +3,7 @@
 </h2>  
 <br>
 
-<div>
+<div align="center">
    <a target="_blank" href="https://www.linkedin.com/in/romeiro-bruna">
     <img width="109rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
@@ -13,7 +13,7 @@
 </div>
 <br>
 
-<div style="display: inline_block">
+<div>
   <a href="https://github.com/romeiro-bru/github-readme-stats">
     <img width="420rem" align="center" src="https://github-readme-stats.vercel.app/api?username=romeiro-bru&show_icons=true&theme=cobalt" />
   </a>
@@ -24,17 +24,19 @@
 </div>
 
 ##
-<div>
-  <img width="40rem"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img width="33rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="35rem"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img width="35rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  <img width="35rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
-  
-  <img align="right" src="https://user-images.githubusercontent.com/56081906/147623814-068aa8da-ac45-45e5-b5a8-f464b80eb4e7.gif"  height="180" alt="avatar">
 
+<div align="center">
+ <img  src="https://user-images.githubusercontent.com/56081906/147623814-068aa8da-ac45-45e5-b5a8-f464b80eb4e7.gif"  height="180" alt="avatar">
 </div>
+
+<div>
+  <img width="45rem"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img width="38rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="40rem"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
+ </div>
 
 
 
