@@ -1,13 +1,13 @@
 <h2 align="center"> 
-  Hi there, I'm Bruna! 
+  Hi there, I'm Bruna! 👩‍💻
 </h2>  
 <br>
 
 <div align="center">
-   <a target="_blank" href="https://www.linkedin.com/in/romeiro-bruna">
+   <a href="https://www.linkedin.com/in/romeiro-bruna" target="_blank" >
     <img width="109rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-   <a target="_blank" href="mailto:bruna.s.romeiro@gmail.com">
+   <a href="mailto:bruna.s.romeiro@gmail.com" target="_blank" >
     <img width="85rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
 </div>
@@ -26,12 +26,16 @@
 ##
 
 <div align="center">
+    <a href="https://github.com/romeiro-bru?tab=repositories" target="_blank">
+
   <img width="45rem"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img width="38rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="40rem"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
+  <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+        </a>
+
  </div>
 
 <div align="right">
