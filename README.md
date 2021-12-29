@@ -35,7 +35,7 @@
  </div>
 
 <div align="right">
- <img  src="https://user-images.githubusercontent.com/56081906/147623814-068aa8da-ac45-45e5-b5a8-f464b80eb4e7.gif"  height="170" alt="avatar">
+ <img  src="https://user-images.githubusercontent.com/56081906/147680402-8434cd2f-6781-4fbe-9edc-8a2be5fb2b64.png"  height="170" alt="avatar">
 </div>
 
 
