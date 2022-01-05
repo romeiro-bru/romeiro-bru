@@ -12,7 +12,7 @@
     <img width="85rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
   <a href="https://www.codewars.com/users/romeiro-bru" target="_blank" >
-    <img width="115rem" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars" />
+    <img width="115rem" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="codewars" />
   </a>
 </div>
 <br>
