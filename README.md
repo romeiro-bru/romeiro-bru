@@ -1,5 +1,6 @@
 <h2 align="center"> 
   Hi there, I'm Bruna! 👩‍💻
+  <img src="https://www.codewars.com/users/romeiro-bru/badges/micro" />
 </h2>  
 <br>
 
@@ -9,6 +10,9 @@
   </a>
    <a href="mailto:bruna.s.romeiro@gmail.com" target="_blank" >
     <img width="85rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://www.codewars.com/users/romeiro-bru" target="_blank" >
+    <img width="115rem" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="codewars" />
   </a>
 </div>
 <br>
