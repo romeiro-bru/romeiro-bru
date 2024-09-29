@@ -25,11 +25,11 @@
 
 <div>
   <a href="https://github.com/romeiro-bru/github-readme-stats">
-    <img width="420rem" align="center" src="https://github-readme-stats.vercel.app/api?username=romeiro-bru&show_icons=true&theme=cobalt" />
+    <img width="400rem" align="center" src="https://github-readme-stats.vercel.app/api?username=romeiro-bru&show_icons=true&theme=cobalt" />
   </a>
 
   <a href="https://https://github.com/romeiro-bru/romeiro-bru&layout=compact">
-    <img height="165rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeiro-bru&layout=compact&theme=cobalt&hide=Ruby" />
+    <img height="167rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeiro-bru&layout=compact&theme=cobalt&hide=Ruby" />
   </a>
 </div>
 
@@ -45,7 +45,7 @@
   </div>
 
  <div align="right">
- <img  src="https://user-images.githubusercontent.com/56081906/147680402-8434cd2f-6781-4fbe-9edc-8a2be5fb2b64.png"  height="100" alt="avatar">
+ <img  src="https://user-images.githubusercontent.com/56081906/147680402-8434cd2f-6781-4fbe-9edc-8a2be5fb2b64.png"  height="80" alt="avatar">
 </div>
 </div>
 
