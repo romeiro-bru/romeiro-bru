@@ -5,7 +5,7 @@
 <br>
 
 <section width="40%" marginBottom="3rem">
-  I've been a software developer for two years in the IT market. I currently work with React and TypeScript using Tailwind CSS to build internal applications. Development follows prototypes created in Figma to ensure design fidelity. I have experience with unit testing using Vitest and Jest, as well as performing deployment and versioning processes with Git. On a daily basis, I use Jira and Slack to manage tasks and communicate with the team, in addition to having used Trello and Azure in previous projects. 
+  I've been a software developer for two years in the technology market. I currently work with React and TypeScript using Tailwind CSS to build internal applications. Development follows prototypes created in Figma to ensure design fidelity. I have experience with unit testing using Vitest and Jest, as well as performing deployment and versioning processes with Git. On a daily basis, I use Jira and Slack to manage tasks and communicate with the team, in addition to having used Trello and Azure in previous projects. 
 </section>
 
 ##
