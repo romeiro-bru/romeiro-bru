@@ -36,23 +36,20 @@
 ##
 
 <div align="center">
+  <h3>Tecnologias e Ferramentas:</h3>
   <div marginBottom="3rem">
-    <img width="40rem"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-    <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-    <img  width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-    <img width="43rem"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    React | Tailwind CSS | Git | HTML | JavaScript | Jest | Vitest   
   </div>
-  <div>
-    <img width="45rem"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-    <img width="36rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />    
-    <img width="43rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
- </div>
+   <div marginBottom="3rem">
+    Miro | Trello | Jira | Azure | Mural | VSCode
+  </div>
+
+ <div align="right">
+ <img  src="https://user-images.githubusercontent.com/56081906/147680402-8434cd2f-6781-4fbe-9edc-8a2be5fb2b64.png"  height="100" alt="avatar">
+</div>
 </div>
 
-<div align="right">
- <img  src="https://user-images.githubusercontent.com/56081906/147680402-8434cd2f-6781-4fbe-9edc-8a2be5fb2b64.png"  height="130" alt="avatar">
-</div>
+
 
 
 
