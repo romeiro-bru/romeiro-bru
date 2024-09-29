@@ -1,8 +1,14 @@
 <h2 align="center"> 
-  Hi there, I'm Bruna! 👩‍💻
+  Hi there, I'm Bruna! 👩‍💻🌻
   <img src="https://www.codewars.com/users/romeiro-bru/badges/micro" />
 </h2>  
 <br>
+
+<section width="40%" marginBottom="3rem">
+  I've been a software developer for two years in the IT market. I currently work with React and TypeScript using Tailwind CSS to build internal applications. Development follows prototypes created in Figma to ensure design fidelity. I have experience with unit testing using Vitest and Jest, as well as performing deployment and versioning processes with Git. On a daily basis, I use Jira and Slack to manage tasks and communicate with the team, in addition to having used Trello and Azure in previous projects. 
+</section>
+
+##
 
 <div align="center">
    <a href="https://www.linkedin.com/in/romeiro-bruna" target="_blank" >
