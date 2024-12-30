@@ -38,10 +38,10 @@
 <div align="center">
   <h3>Technologies and Tools:</h3>
   <div marginBottom="3rem">
-    React | Tailwind CSS | Git | HTML | JavaScript | Jest | Vitest   
+    React | Tailwind | CSS | Git | HTML | JavaScript | Jest | Vitest   
   </div>
    <div marginBottom="3rem">
-    Miro | Trello | Jira | Azure | Mural | VSCode
+    Miro | Trello | Jira | Azure 
   </div>
 
  <div align="right">
